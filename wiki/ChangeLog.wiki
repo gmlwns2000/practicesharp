@@ -1,0 +1,18 @@
+= Changes =
+
+Alpha 14:
+* Added top main menu
+* Added About dialog
+* Added Recent Files 
+
+Alpha 13:
+* Enhanced audio playback quality (strong AA filter)
+* Fixed behavior of Start and End loop marker controls to affect time of all 3 controls (Minute,Seconds,Milli)
+* Fixed stability issues
+
+Alpha 12:
+* Changed preset UI to contain text inside the Preset Control
+* Fixed stability issues
+
+Alpha 11:
+* First version
