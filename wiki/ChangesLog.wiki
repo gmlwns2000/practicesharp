@@ -1,6 +1,11 @@
 #labels Featured
 = Changes Log =
 
+== Beta 1: ==
+ * Improved Updated Version checker, it now works asynchronously thus not blocking the application on load
+ * Fixed: The playTimeTrackBar was jumping slightly back and forth when changing presets
+ * NAudio: Using latest version (63489)
+
 == Alpha 15: ==
  * Added Updated Version checker (checks if latest version on GoogleCode is newer than installed version) - If new version was released then the application provides a dialog and jumps to Practice# GoogleCode downloads page
 
