@@ -1,6 +1,12 @@
 #labels Featured
 = Changes Log =
 
+== Beta 2: ==
+ * Added playback support for Ogg Vorbis 
+ * Added a new library/NAudio plugin to support Ogg Vorbis in NAudio (Standalone TestApp also available)
+ * Fixed some issues with play back 
+ * Changed default volume to 50%
+
 == Beta 1: ==
  * Improved Updated Version checker, it now works asynchronously thus not blocking the application on load
  * Fixed: The playTimeTrackBar was jumping slightly back and forth when changing presets
