@@ -2,7 +2,7 @@
 = Changes Log =
 
 == Beta 2: ==
- * Added playback support for Ogg Vorbis 
+ * Added playback support for Ogg Vorbis (using Vorbis#, based one some ideas from DragonOgg)
  * Added a new library/NAudio plugin to support Ogg Vorbis in NAudio (Standalone TestApp also available)
  * Fixed some issues with play back 
  * Changed default volume to 50%
