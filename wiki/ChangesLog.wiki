@@ -6,6 +6,7 @@
  * Added a new library/NAudio plugin to support Ogg Vorbis in NAudio (Standalone TestApp also available)
  * Fixed some issues with play back 
  * Changed default volume to 50%
+ * Reset all settings/UI Controls when loading files. New files that have never been used, have no presets and as a result all the previous file information stays (Tempo, Pitch, Volume, Presets)
 
 == Beta 1: ==
  * Improved Updated Version checker, it now works asynchronously thus not blocking the application on load
