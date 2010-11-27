@@ -2,7 +2,6 @@
 = Changes Log =
 
 == Beta 3: == 
-*Coming soon - Available from trunk but not released as binary, still being tested*
  * Added playback support for WMA
  * Integrated with new version NAudio 64392. NAudio has incoporated WMA support that was developed in Practice# (based on original code from Idael Cardaso)
  * Bug fixes, mainly stability issues with preset saving and when application was shut down
