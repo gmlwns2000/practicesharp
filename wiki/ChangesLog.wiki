@@ -1,6 +1,16 @@
 #labels Featured
 = Changes Log =
 
+== Beta 3: == 
+*Coming soon - Available from trunk but not released as binary, still being tested*
+ * Added playback support for WMA
+ * Integrated with new version NAudio 64392. NAudio has incoporated WMA support that was developed in Practice# (based on original code from Idael Cardaso)
+ * Bug fixes, mainly stability issues with preset saving and when application was shut down
+ * All Playback initialization and termination fully moved into the audio processing thread (not done on main UI thread any longer)
+ * Improved playback hiccups - Mainly due to synchronous events from PracticeSharpLogic to MainForm. Now PracticeSharpLogic events are asynchronous.
+ * Added support for a command line argument - the filename (to allow running Practice# from command line or through a future shell extension)
+ * Code clean up
+
 == Beta 2: ==
  * Added playback support for Ogg Vorbis (using Vorbis#, based one some ideas from DragonOgg)
  * Added a new library/NAudio plugin to support Ogg Vorbis in NAudio (Standalone TestApp also available)
