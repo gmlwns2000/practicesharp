@@ -1,6 +1,12 @@
 #labels Featured
 = Changes Log =
 
+== Beta 4: == (Coming soon)
+ * Equalizer controls
+ * Keyboard shortcuts
+ * Fix: SoundTouch DLL now works properly with SoundTouchSharp in Release Mode
+ * Fix: Flickers, Tab Order, Tool Tips, cosmetics
+
 == Beta 3: == 
  * Added playback support for WMA
  * Integrated with new version NAudio 64392. NAudio has incoporated WMA support that was developed in Practice# (based on original code from Idael Cardaso)
