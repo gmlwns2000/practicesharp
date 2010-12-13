@@ -2,7 +2,6 @@
 = Changes Log =
 
 == Beta 4: == 
-(Coming soon)
  * Equalizer controls
  * Keyboard shortcuts
  * Fix: SoundTouch DLL now works properly with SoundTouchSharp in Release Mode
