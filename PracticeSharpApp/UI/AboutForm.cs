@@ -68,43 +68,26 @@ namespace BigMansStuff.PracticeSharp.UI
 
         private void googleCodeProjectLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            LaunchWebSite("http://code.google.com/p/practicesharp/");
+            System.Diagnostics.Process.Start("http://code.google.com/p/practicesharp/");
         }
 
         private void codeProjectLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            LaunchWebSite("http://www.codeproject.com/KB/audio-video/practice_sharp.aspx");
+            System.Diagnostics.Process.Start("http://www.codeproject.com/KB/audio-video/practice_sharp.aspx");
         }
 
         private void naudioLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            LaunchWebSite("http://naudio.codeplex.com/");
+            System.Diagnostics.Process.Start("http://naudio.codeplex.com/");
         }
 
         private void soundTouchLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            LaunchWebSite("http://www.surina.net/soundtouch/");
+            System.Diagnostics.Process.Start("http://www.surina.net/soundtouch/");
         }
 
-        private void csVorbisLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            LaunchWebSite("https://github.com/mono/csvorbis/");
-        }
-        
         #endregion
 
-        #region Privte Methods
-
-        /// <summary>
-        /// Utility function - launches the web site url in the default browser
-        /// </summary>
-        /// <param name="webSiteUrl"></param>
-        private void LaunchWebSite(string webSiteUrl)
-        {
-            System.Diagnostics.Process.Start(webSiteUrl);
-        }
-
-
-        #endregion
+      
     }
 }

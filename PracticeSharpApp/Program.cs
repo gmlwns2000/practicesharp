@@ -37,12 +37,7 @@ namespace BigMansStuff.PracticeSharp.UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            // Special code - Initializes the central exception handlers
-            AppExceptionHandler.InitializeExceptionHandling();
-
             Application.Run(new MainForm());
         }
-
     }
 }
