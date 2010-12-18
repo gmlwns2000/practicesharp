@@ -1,6 +1,12 @@
 #labels Featured
 = Changes Log =
 
+== Beta 5: == 
+(Coming Soon!)
+
+ * Major bug fixes - Application sometimes crashed when a file was loaded when another file was paused, Stop/Terminate logic was incorrect
+ * Adding logging using NLog
+
 == Beta 4: == 
  * Equalizer controls
  * Keyboard shortcuts
