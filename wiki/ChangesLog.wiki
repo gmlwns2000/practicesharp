@@ -2,10 +2,11 @@
 = Changes Log =
 
 == Beta 5: == 
-(Coming Soon!)
 
- * Major bug fixes - Application sometimes crashed when a file was loaded when another file was paused, Stop/Terminate logic was incorrect
- * Adding logging using NLog
+ * Bug fixes (Core) - Application sometimes crashed when a file was loaded, Stop/Terminate playback logic was incorrect
+ * Bug fixes (UI) - Cancel Write mode did not work properly, it caused the preset to be re-selected loosing the current settings, Current Up/Down controls did not transition properly (e.g. decrementing the seconds below zero did not affect minutes)
+ * Added logging using NLog (log file resides in %LOCALAPPDATA%\PracticeSharp\Practice#.log)
+ * Added central exception handlers that log the exceptions and show a proper dialog
 
 == Beta 4: == 
  * Equalizer controls
