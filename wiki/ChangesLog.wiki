@@ -1,6 +1,10 @@
 #labels Featured
 = Changes Log =
 
+== Beta 6: ==
+(Still in the oven)
+ * FLAC Playback Support
+
 == Beta 5: == 
 
  * Bug fixes (Core) - Application sometimes crashed when a file was loaded, Stop/Terminate playback logic was incorrect
