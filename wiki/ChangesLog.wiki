@@ -4,6 +4,7 @@
 == Beta 6: ==
 (Still in the oven)
  * FLAC Playback Support
+ * Fixed: WMA playback was broken
 
 == Beta 5: == 
 
