@@ -4,7 +4,8 @@
 == Beta 6: ==
 (Still in the oven)
  * FLAC Playback Support
- * Fixed: WMA playback was broken
+ * (Core) Fixed: WMA playback was broken
+ * (Core) Equalizer fine tuning: Lo (Bass) more pronounced
 
 == Beta 5: == 
 
