@@ -1,2 +1,2 @@
 #labels Featured
-Practice# latest Version is: 0.5.0.0 (Beta 5)
+Practice# latest Version is: 0.6.0.0 (Beta 6)
