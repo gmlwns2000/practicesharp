@@ -3,6 +3,7 @@
 
 == 1.0: No longer a beta :) ==
 >> Coming soon
+ * Added Wix/MSI setup, with dotNetInstaller boot strapper
  * Initialized Status -> Rename to Ready
  * When app was loaded, prev file did not show the loop bounderies ("bar"). Only after playing the file, it then shows up.
 
