@@ -1,11 +1,14 @@
 #labels Featured
 = Changes Log =
 
-== 1.0: No longer a beta :) ==
+== 1.0.1: No longer a beta :) ==
  * Added Wix/MSI setup, with dotNetInstaller boot strapper
  * 'Initialized' Status -> Renamed to 'Ready'
- * Fix: When application was loaded, the previous file did not show the loop bounderies ("bar"). Only after playing the file, it then showed up.
+ * Fix: When application was loaded, the previous file did not show the loop boundaries ("bar"). Only after playing the file, it then showed up.
  * Major bug fix: Stopping the audio was not done correctly and caused threading issues (lockups) and/or crashes (was noticeable in particular on slower machines I've tested)
+
+NOTE: I apologize but I released a bad 1.0 version, 1.0.1 replaces 1.0.
+
 
 == 0.6 (Beta 6): ==
  * FLAC Playback Support
