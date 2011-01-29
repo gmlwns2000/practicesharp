@@ -1,6 +1,13 @@
 #labels Featured
 = Changes Log =
 
+== 1.2.0: ==
+(Coming soon)
+ * Improved slow down playback quality by fine tuning the SoundTouch engine. Manual settings are now used instead of the default automatic provide by Sound Touch.
+ * Added TimeStretchProfiles, to support custom tuning of the SoundTouch engine.
+
+NOTE: Version 1.1.0 was experimental, hence the jump from 1.0.1 to 1.2.0
+
 == 1.0.1: No longer a beta :) ==
  * Added Wix/MSI setup, with dotNetInstaller boot strapper
  * 'Initialized' Status -> Renamed to 'Ready'
@@ -8,7 +15,6 @@
  * Major bug fix: Stopping the audio was not done correctly and caused threading issues (lockups) and/or crashes (was noticeable in particular on slower machines I've tested)
 
 NOTE: I apologize but I released a bad 1.0 version, 1.0.1 replaces 1.0.
-
 
 == 0.6 (Beta 6): ==
  * FLAC Playback Support
