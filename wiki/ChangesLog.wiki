@@ -3,7 +3,8 @@
 
 == 1.2.0: ==
 (Coming soon)
- * Improved slow down playback quality by fine tuning the SoundTouch engine. Manual settings are now used instead of the default automatic provide by Sound Touch.
+ * Improved slow down playback quality by fine tuning the SoundTouch engine. There is a *significant improvement* in sound quality when playback is slowed down, in particular for singing/speech parts but also for music.
+ Manual settings are now used instead of the default automatic provide by Sound Touch.
  * Added TimeStretchProfiles, to support custom tuning of the SoundTouch engine.
 
 NOTE: Version 1.1.0 was experimental, hence the jump from 1.0.1 to 1.2.0
