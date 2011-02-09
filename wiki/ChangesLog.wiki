@@ -2,10 +2,11 @@
 = Changes Log =
 
 == 1.2.0: ==
-*_(Coming soon)_*
  * Improved slow down playback quality by fine tuning the SoundTouch engine. There is a *significant improvement* in sound quality when playback is slowed down, in particular for singing/speech parts but also for music.
  Manual settings are now used instead of the default automatic provide by Sound Touch.
  * Added TimeStretchProfiles, to support custom tuning of the SoundTouch engine.
+ * Fixed minor bug with positionLabel handling: Clicking on it was not working in Pause mode
+ * Position Reset (Back to start) keyboard changed from Home (used by other TrackBars by default) to F5
 
 NOTE: Version 1.1.0 was experimental, hence the jump from 1.0.1 to 1.2.0
 
