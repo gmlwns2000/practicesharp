@@ -1,6 +1,11 @@
 #labels Featured
 = Changes Log =
 
+== 1.3.0: ==
+ * Recompiled with new versions of NAudio and SoundTouch libraries
+ * Support for AIFF Playback 
+ * Slight change of Graphics
+
 == 1.2.0: ==
  * *Improved slow down playback quality* by fine tuning the SoundTouch engine. There is a *significant improvement* in sound quality when playback is slowed down, in particular for singing/speech parts but also for music.
  Manual settings are now used instead of the default automatic provide by Sound Touch.
