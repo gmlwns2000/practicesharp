@@ -5,6 +5,7 @@
 Released: 2/10/2012
  * 8 Presets (instead of 4)
  * Keyboard shortcuts
+ * Added a new Use-Case: Preset Quick-Write (Using Ctrl+W)
  * Improved look and feel (glass buttons)
  * Changed pitch into accurate semi-tones intervals
  * Fixed a minor bug with Loop reset to start
