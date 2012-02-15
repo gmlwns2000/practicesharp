@@ -1,12 +1,13 @@
 #labels Featured
 = Changes Log =
 
-== 1.4.5: ==
+== 1.4.6: ==
 Released: In development/Soon
  * Fixed random crash/hang when loading recent files - DirectSound is not stable in NAudio, moved instead to WaveOut (XP) or Wasapi (Vista,7)
  * Fixed speed and pitch track bar mouse behavior. Values are now rounded up properly and the ticks are 'sticky'
  * Added a 'Show technical log' (F12) use-case. It is useful for viewing & sending the log if things don't work properly for some reason
  * Fixed issue when loading files after an existing was loaded. There was a short playback of the old song. (SoundTouch buffers not flushed properly and had some left over samples). Not affecting stability, but annoying.
+ * *New feature!* Vocal Suppression (AKA Voice Removal or Karaoke).
 
 == 1.4.1: ==
 Released: 2/10/2012
