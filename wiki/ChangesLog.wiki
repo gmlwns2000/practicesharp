@@ -1,8 +1,8 @@
 #labels Featured
 = Changes Log =
 
-== 1.4.6: ==
-Released: In development/Soon
+== 1.5.0: ==
+Released: Not yet - In development/Soon
  * Fixed random crash/hang when loading recent files - DirectSound is not stable in NAudio, moved instead to WaveOut (XP) or Wasapi (Vista,7)
  * Fixed speed and pitch track bar mouse behavior. Values are now rounded up properly and the ticks are 'sticky'
  * Added a 'Show technical log' (F12) use-case. It is useful for viewing & sending the log if things don't work properly for some reason
