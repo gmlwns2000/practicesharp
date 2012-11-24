@@ -1,5 +1,9 @@
 #labels Featured
 = Changes Log =
+== 1.6.0: ==
+Released: Soon
+ * SoundTouch library updated to 1.7 (has optimizations and fixes by library author)
+ * Localization - support of languages (English, German, Hebrew) 
 
 == 1.5.0: ==
 Released: 3/2/2012
