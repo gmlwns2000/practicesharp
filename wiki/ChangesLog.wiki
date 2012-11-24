@@ -2,7 +2,8 @@
 = Changes Log =
 == 1.6.0: ==
 Released: Soon
- * SoundTouch library updated to 1.7 (has optimizations and fixes by library author)
+ * SoundTouch library updated to 1.7 (optimizations and fixes by library author)
+ * NAudio library updated to 1.6 (optimizations and fixes by library author)
  * Localization - support of languages (English, German, Hebrew) 
  * Bug fixes:
    * http://code.google.com/p/practicesharp/source/detail?r=288
