@@ -1,10 +1,16 @@
 #labels Featured
 = Changes Log =
+== 1.7.0: ==
+(FUTURE)
+ * Localization - support of languages (English, German, Hebrew) 
+ * Very fine tune of pitch
+ * Export output to file  
+
 == 1.6.0: ==
 Released: Soon
  * SoundTouch library updated to 1.7 (optimizations and fixes by library author)
  * NAudio library updated to 1.6 (optimizations and fixes by library author)
- * Localization - support of languages (English, German, Hebrew) 
+ * Change logic: Cue should happen in front of the loop instead of at the end 
  * Bug fixes:
    * http://code.google.com/p/practicesharp/source/detail?r=288
    * http://code.google.com/p/practicesharp/source/detail?r=290
