@@ -10,11 +10,12 @@
 Released: Soon
  * SoundTouch library updated to 1.7 (optimizations and fixes by library author)
  * NAudio library updated to 1.6 (optimizations and fixes by library author)
- * Change logic: Cue should happen in front of the loop instead of at the end 
+ * Change in logic: Cue now happens in front of the loop instead of at the end 
  * Bug fixes:
    * http://code.google.com/p/practicesharp/source/detail?r=288
    * http://code.google.com/p/practicesharp/source/detail?r=290
    * http://code.google.com/p/practicesharp/source/detail?r=292
+   * http://code.google.com/p/practicesharp/issues/detail?id=8
 
 == 1.5.0: ==
 Released: 3/2/2012
