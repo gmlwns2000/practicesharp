@@ -16,6 +16,7 @@ Released: Soon
    * http://code.google.com/p/practicesharp/source/detail?r=290
    * http://code.google.com/p/practicesharp/source/detail?r=292
    * http://code.google.com/p/practicesharp/issues/detail?id=8
+   * http://code.google.com/p/practicesharp/issues/detail?id=9
 
 == 1.5.0: ==
 Released: 3/2/2012
