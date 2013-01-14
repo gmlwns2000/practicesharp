@@ -3,7 +3,6 @@
 == 1.7.0: ==
 (FUTURE)
  * Localization - support of languages (English, German, Hebrew) 
- * Very fine tune of pitch
  * Export output to file  
 
 == 1.6.0: ==
