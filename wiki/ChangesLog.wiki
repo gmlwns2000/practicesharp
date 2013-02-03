@@ -6,7 +6,7 @@
  * Export output to file  
 
 == 1.6.0: ==
-Released: Soon
+Released: 2/3/2013
  * SoundTouch library updated to 1.7 (optimizations and fixes by library author)
  * NAudio library updated to 1.6 (optimizations and fixes by library author)
  * Change in logic: Cue now occurs in front of the loop instead of at the end 
