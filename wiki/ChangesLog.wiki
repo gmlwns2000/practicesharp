@@ -12,6 +12,7 @@ Released testing version: 3/4/2013
  * Change in logic: Cue now occurs in front of the loop instead of at the end 
  * Change: Pitch resolution is now in 1/4 semi-tones, instead of 1/2 semi-tones
  * Bug fixes:
+   * Major issue - http://code.google.com/p/practicesharp/issues/detail?id=10
    * http://code.google.com/p/practicesharp/source/detail?r=288
    * http://code.google.com/p/practicesharp/source/detail?r=290
    * http://code.google.com/p/practicesharp/source/detail?r=292
