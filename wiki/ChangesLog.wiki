@@ -5,8 +5,8 @@
  * Localization - support of languages (English, German, Hebrew) 
  * Export output to file  
 
-== 1.6.1: ==
-Released testing version: 3/4/2013
+== 1.6.3: ==
+Released *testing* version: 3/15/2013
  * SoundTouch library updated to 1.7 (optimizations and fixes by library author)
  * NAudio library updated to 1.6 (optimizations and fixes by library author)
  * Change in logic: Cue now occurs in front of the loop instead of at the end 
