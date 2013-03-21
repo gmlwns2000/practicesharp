@@ -18,6 +18,7 @@ Released version: 3/20/2013
    * http://code.google.com/p/practicesharp/source/detail?r=292
    * http://code.google.com/p/practicesharp/issues/detail?id=8
    * http://code.google.com/p/practicesharp/issues/detail?id=9
+   * http://code.google.com/p/practicesharp/issues/detail?id=12
 
 == 1.5.0: ==
 Released: 3/2/2012
