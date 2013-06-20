@@ -4,6 +4,9 @@
 (FUTURE)
  * Localization - support of languages (English, German, Hebrew) 
  * Export output to file  
+ * Bug fixes:
+   * https://code.google.com/p/practicesharp/issues/detail?id=13&can=1
+   * https://code.google.com/p/practicesharp/issues/detail?id=14&can=1
 
 == 1.6.4: ==
 Released version: 3/20/2013
