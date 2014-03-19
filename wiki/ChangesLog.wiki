@@ -9,7 +9,7 @@
  * Upgraded NAudio to 1.7
  * Upgraded SoundTouch to 1.8
  * Upgraded .NET boot strap installer to 2.3
- * Moved from .NET 2.0 to .NET 3.5
+ * Moved from .NET 2.0 to .NET 3.5 Client Profile
  * Bug fixes:
    * https://code.google.com/p/practicesharp/issues/detail?id=13&can=1
    * https://code.google.com/p/practicesharp/issues/detail?id=14&can=1
