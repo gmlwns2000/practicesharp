@@ -1,12 +1,19 @@
 #labels Featured
 = Changes Log =
-== 1.7.0: ==
-(FUTURE)
+== 1.7.1: (FUTURE) ==
  * Localization - support of languages (English, German, Hebrew) 
  * Export output to file  
+
+== 1.7.0: (SOON) ==
+(FUTURE)
+ * Upgraded NAudio to 1.7
+ * Upgraded SoundTouch to 1.8
+ * Upgraded .NET boot strap installer to 2.3
+ * Moved from .NET 2.0 to .NET 3.5
  * Bug fixes:
    * https://code.google.com/p/practicesharp/issues/detail?id=13&can=1
    * https://code.google.com/p/practicesharp/issues/detail?id=14&can=1
+   * Major issue with FLAC play back (re-positioning)
 
 == 1.6.4: ==
 Released version: 3/20/2013
