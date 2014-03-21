@@ -13,7 +13,7 @@
  * Bug fixes:
    * https://code.google.com/p/practicesharp/issues/detail?id=13&can=1
    * https://code.google.com/p/practicesharp/issues/detail?id=14&can=1
-   * Major issue with FLAC play back (re-positioning)
+   * Major issue with FLAC play back (re-positioning).  https://code.google.com/p/practicesharp/issues/detail?id=18&can=1
 
 == 1.6.4: ==
 Released version: 3/20/2013
